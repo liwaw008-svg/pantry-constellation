@@ -1,0 +1,1 @@
+import'./globals.css';export const metadata={title:'Pantry Constellation',description:'A cooperative constraint-aware community meal.'};export default function L({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>}
